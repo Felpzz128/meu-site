@@ -1,2 +1,2 @@
-meu-repositorio/
+meu-site/
 ├── liprogramo.html
